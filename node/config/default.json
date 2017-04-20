@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "5cc361fa88e7f8f6c74eaa6a1391ca76",
+    "pageAccessToken": "EAAKBHdGZBBIgBAJjIP0NqP1pv8eK6tKZBKxZC2IcMj2c2Kiq8DT7tSwa2vPzAeepg6yg3qYMR2a4NvGM4FtV7uE2VvV5WLZAq30qQ9xM8Py0GvjQZAUq4USXD1D42tHeZAGZB2GlmFDqoiQEHlmPT4gQNsMGE4mxEhck8zQePZCo5NUhWUsuEc9Y",
+    "validationToken": "EAAKBHdGZBBIgBAJjIP0NqP1pv8eK6tKZBKxZC2IcMj2c2Kiq8DT7tSwa2vPzAeepg6yg3qYMR2a4NvGM4FtV7uE2VvV5WLZAq30qQ9xM8Py0GvjQZAUq4USXD1D42tHeZAGZB2GlmFDqoiQEHlmPT4gQNsMGE4mxEhck8zQePZCo5NUhWUsuEc9Y",
+    "serverURL": "testUrl"
 }
